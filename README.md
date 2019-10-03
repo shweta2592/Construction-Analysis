@@ -7,3 +7,6 @@ This project involves exploring and providing insights for construction planning
 2. matplotlib
 3. Seaborn
 4. Jupyter
+5. Pandas
+
+
